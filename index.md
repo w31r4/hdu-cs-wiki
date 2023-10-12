@@ -5,7 +5,7 @@ layout: home
 hero:
   name: HDU-CS-WIKI
   text: HDU计算机科学讲义
-  tagline: 正在完善中！如果你有任何建议或者想要完善本 WIKI ，请点击下方的 GitHub 按钮提交 issue 或者 PR ！
+  tagline: 如果你有一些建议或者想要完善此 WIKI ，请点击下方的 GitHub 按钮查看我们的仓库提交 issue 或者 PR ！
   image:
     src: hdu-cs-wiki.svg
     alt: HDU-CS-WIKI
@@ -26,6 +26,5 @@ features:
     details: 给你学习大学理应掌握的编程思维，构建合理的编程思维方式！当然，未完待续，很多内容仍在测试阶段。
   - title: 🤣what's more?
     details: 还有非常多的内容尚未更新完毕，我们期待着你的反馈和加入！
----
 
-<meta name="baidu-site-verification" content="codeva-GDehy1VQ6d" />
+---

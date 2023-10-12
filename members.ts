@@ -30,6 +30,14 @@ export const members: Member = [
     ]
   },
   {
+    avatar: 'https://avatars.hdu-cs.wiki/FallenYing',
+    name: 'FallenYing',
+    title: 'Maintainer',
+    links: [
+      { icon: 'github', link: 'https://github.com/FallenYing' },
+    ]
+  },
+  {
     avatar: 'https://avatars.hdu-cs.wiki/aFlyBird0',
     name: '爱飞的鸟',
     title: 'Contributer',
@@ -46,11 +54,11 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/creammmmmmmmmmmmmmmm',
+    avatar: 'https://avatars.hdu-cs.wiki/creamm-kk',
     name: '可可',
     title: 'Contributer',
     links: [
-      { icon: 'github', link: 'https://github.com/creammmmmmmmmmmmmmmm' },
+      { icon: 'github', link: 'https://github.com/creamm-kk' },
     ]
   },
   {
@@ -83,6 +91,110 @@ export const members: Member = [
     title: 'Contributer',
     links: [
       { icon: 'github', link: 'https://github.com/buwyi' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/E1PsyCongroo',
+    name: 'E1PsyCongroo',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/E1PsyCongroo' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/w31r4',
+    name: 'w31r4',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/w31r4' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/axiomofchoice-hjt',
+    name: 'Axiomofchoice',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/axiomofchoice-hjt' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/ek1ng',
+    name: 'ek1ng',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/ek1ng' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/Plumbiu',
+    name: 'Guo Xingjun',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Plumbiu' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/GoldenSheep402',
+    name: 'GoldenSheep',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/GoldenSheep402' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/NX-Official',
+    name: 'Nick Xu',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/NX-Official' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/4nsw3r123',
+    name: '4nsw3r',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/4nsw3r123' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/BaiMeow',
+    name: '柏喵Sakura',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/BaiMeow' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/sd0ric4',
+    name: 'lightstarts',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/sd0ric4' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/wenjing233',
+    name: 'wenjing233',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/wenjing233' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/Lacsion',
+    name: 'KAFUU',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Lacsion' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/Krisnile',
+    name: 'Krisnile',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/Krisnile' },
     ]
   },
 ]
