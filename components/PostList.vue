@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { ref, computed } from "vue";
 import Pagination from "./Pagination.vue";
 import PostItem from "./PostItem.vue";
@@ -6,7 +6,7 @@ const props = {
   data: (
     await (
       await fetch(
-        "https://ghproxy.com/https://raw.githubusercontent.com/NX-Official/friends-link-plus/main/output/friends.json"
+        "https://gh.dn11.top/https://raw.githubusercontent.com/NX-Official/friends-link-plus/main/output/friends.json"
       )
     ).json()
   ).posts,

@@ -15,9 +15,6 @@
   <a href="https://github.com/camera-2018/hdu-cs-wiki/pulls">
     <img src="https://img.shields.io/github/issues-pr/camera-2018/hdu-cs-wiki.svg?color=lightgreen" alt="pulls">
   </a>
-  <a href="https://app.netlify.com/sites/hdu-cs-wiki/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/92121c47-e608-4736-bffa-c0958e570348/deploy-status">
-  </a>
   <a href="https://vercel.com/camera-2018/hdu-cs-wiki/deployments">
     <img src="http://therealsujitk-vercel-badge.vercel.app/?app=hdu-cs-wiki&logo=true">
   </a>
@@ -48,14 +45,10 @@
  **出一份计算机科学领域的讲义，一起做大家的领路人。** 
 
 
-这份讲义由**zzm**发起，**孵化器**，**SRT**, **杭电助手**与 **Vidar-Team** 协办。参与讲义制作的有 hdu 的同学，老师，相关领域的大佬，覆盖了人工智能入门、软件开发入门，计算机学习之道与路线等内容。
+这份讲义由**zzm**发起，**计算机科协**，**孵化器**，**SRT**, **杭电助手**与 **Vidar-Team** 协办。参与讲义制作的有 hdu 的同学，老师，相关领域的大佬，覆盖了人工智能入门、软件开发入门，计算机学习之道与路线等内容。
 
 
-zzm 花费了一年的时间动员了大伙对讲义进行修缮和完备，不得不说这确实不是一个小的工作，不过在2023年3月，在计院领导的支持下，计算机学院科协成立了。我们将在学院的支持下继续完善这个内容，同时也欢迎大伙加入我们，共同参与到讲义的学习与撰写中来！
-
-<div align="center">
-  <img src="https://cdn.xyxsw.site/qrcodes.png">
-</div>
+在2023年3月，在计院领导的支持下，计算机学院科协成立了。我们将在继续完善这个内容，同时也欢迎大伙加入我们，共同参与到讲义的学习与撰写中来！
 
 ## 学习原则
 
@@ -84,4 +77,15 @@ zzm 花费了一年的时间动员了大伙对讲义进行修缮和完备，不�
 本作品采用 `知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆` 许可协议进行许可。 要查看该许可协议， 可访问[这里](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)， 或者写信到 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 © 2022. 此文章采用 [**CC BY-NC-SA 3.0 CN**](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可授权。
+
+## Stars History
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=627536768" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=627536768&image_size=auto&color_scheme=dark" width="1024" height="auto">
+    <img alt="Star History of camera-2018/hdu-cs-wiki" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=627536768&image_size=auto&color_scheme=light" width="1024" height="auto">
+  </picture>
+</a>
 

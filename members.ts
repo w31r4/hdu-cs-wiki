@@ -38,6 +38,14 @@ export const members: Member = [
     ]
   },
   {
+    avatar: 'https://avatars.hdu-cs.wiki/m0n-k1y',
+    name: 'm0n-k1y',
+    title: 'Maintainer',
+    links: [
+      { icon: 'github', link: 'https://github.com/m0n-k1y' },
+    ]
+  },
+  {
     avatar: 'https://avatars.hdu-cs.wiki/aFlyBird0',
     name: '爱飞的鸟',
     title: 'Contributer',
@@ -182,19 +190,19 @@ export const members: Member = [
     ]
   },
   {
-    avatar: 'https://avatars.hdu-cs.wiki/Lacsion',
-    name: 'KAFUU',
-    title: 'Contributer',
-    links: [
-      { icon: 'github', link: 'https://github.com/Lacsion' },
-    ]
-  },
-  {
     avatar: 'https://avatars.hdu-cs.wiki/Krisnile',
     name: 'Krisnile',
     title: 'Contributer',
     links: [
       { icon: 'github', link: 'https://github.com/Krisnile' },
+    ]
+  },
+  {
+    avatar: 'https://avatars.hdu-cs.wiki/fltb',
+    name: 'floatingblocks',
+    title: 'Contributer',
+    links: [
+      { icon: 'github', link: 'https://github.com/fltb' },
     ]
   },
 ]

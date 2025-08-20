@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { computed, ref } from "vue";
 import VPTeamMembersItem from "./BloggerItem.vue";
 const size = "small";
@@ -6,7 +6,7 @@ const props = {
   friends: (
     await (
       await fetch(
-        "https://ghproxy.com/https://raw.githubusercontent.com/NX-Official/friends-link-plus/main/output/friends.json"
+        "https://gh.dn11.top/https://raw.githubusercontent.com/NX-Official/friends-link-plus/main/output/friends.json"
       )
     ).json()
   ).friends,
@@ -19,7 +19,7 @@ const members = computed(() => {
     return props.friends.slice(0, 5);
   }
 });
-const classes = computed(() => [size ?? "medium", `count-${members.length}`]);
+const classes = computed(() => [size ?? "medium", `count-${members.value.length}`]);
 </script>
 
 <template>

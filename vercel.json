@@ -1,3 +1,15 @@
 {
-  "cleanUrls": true
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vitepress",
+  "cleanUrls": false,
+  "rewrites": [
+    {
+      "source": "/s/:shortKey",
+      "destination": "/api/redirect"
+    }
+  ],
+  "buildCommand": "bun run docs:build",
+  "outputDirectory": ".vitepress/dist",
+  "installCommand": "bun install"
 }
+
