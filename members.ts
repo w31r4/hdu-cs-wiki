@@ -134,6 +134,14 @@ export const members: Member = [
     ]
   },
   {
+    avatar: 'https://avatars.hdu-cs.wiki/w31r4',
+    name: 'w31r4',
+    title: 'Contributor',
+    links: [
+      { icon: 'github', link: 'https://github.com/w31r4' },
+    ]
+  },
+  {
     avatar: 'https://avatars.hdu-cs.wiki/ganbabamaster',
     name: 'ganbabamaster',
     title: 'Contributor',
@@ -163,14 +171,6 @@ export const members: Member = [
     title: 'Contributor',
     links: [
       { icon: 'github', link: 'https://github.com/Duke486' },
-    ]
-  },
-  {
-    avatar: 'https://avatars.hdu-cs.wiki/w31r4',
-    name: 'w31r4',
-    title: 'Contributor',
-    links: [
-      { icon: 'github', link: 'https://github.com/w31r4' },
     ]
   },
   {
